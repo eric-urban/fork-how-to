@@ -1,2 +1,2 @@
 # fork-how-to
-How to fork a GitHub repository
+Please see [How to fork a GitHub repository](how-to-fork.md)
